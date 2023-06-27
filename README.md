@@ -1,7 +1,5 @@
 # 💫About Me :
-I'm a Junior/Trainee Frontend Developer
-
-Searching for my first experience in the web developement world.
+I'm a Fullstack Developer
 
 Always looking to challenge myself in order to grow and become a better programmer and professional
 
